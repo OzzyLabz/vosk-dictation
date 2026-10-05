@@ -13,6 +13,11 @@
   <url type="homepage">https://github.com/OzzyLabz/vosk-dictation</url>
   <url type="bugtracker">https://github.com/OzzyLabz/vosk-dictation/issues</url>
   <releases>
+    <release version="1.2.3" date="2026-10-06">
+      <description>
+        <p>Repacked the SquashFS filesystem with gzip compression for AppImageHub compatibility.</p>
+      </description>
+    </release>
     <release version="1.2.2" date="2026-10-05">
       <description>
         <p>Added valid English AppStream metadata to the Kali-tested AppImage package.</p>
