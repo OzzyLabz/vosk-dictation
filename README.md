@@ -132,7 +132,7 @@ chmod +x VOSK_Dictation-x86_64.AppImage
 ## 📬 Контакты 🤝
 
 Если есть предложения, баги или хочешь сказать спасибо — пиши:  
-📧 **billkodji1@gmail.com**
+📧 **samo.zlo.spb@gmail.com**
 
 ---
 
